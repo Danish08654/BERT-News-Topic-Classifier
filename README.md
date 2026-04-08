@@ -10,14 +10,13 @@ Model Details
 2) Task: Multi-class classification
 
 Classes:
+1) World
 
-1 World
+2) Sports
 
-2 Sports
+3) Business
 
-3 Business
-
-4 Sci/Tech
+4) Sci/Tech
 
 Dataset
 
