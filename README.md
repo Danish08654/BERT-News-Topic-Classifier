@@ -12,8 +12,11 @@ Model Details
 Classes:
 
 1 World
+
 2 Sports
+
 3 Business
+
 4 Sci/Tech
 
 Dataset
