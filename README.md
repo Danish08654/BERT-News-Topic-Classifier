@@ -1,4 +1,9 @@
-This project uses BERT (bert-base-uncased) to classify news headlines into categories like World, Sports, Business, and Sci/Tech.
+This project uses BERT (bert-base-uncased) to classify news headlines into categories like 
+
+World, 
+Sports, 
+Business, 
+and Sci/Tech.
 
 Project Overview
 
