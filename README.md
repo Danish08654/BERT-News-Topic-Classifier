@@ -38,12 +38,15 @@ Tech Stack
 2) PyTorch
 3) Hugging Face Transformers
 4) Datasets & Evaluate
-5) Gradio
+5) StreamLit
    
 Features
 
 1) Fine-tuned BERT model
 2) High accuracy & F1-score
 3) Clean preprocessing pipeline
-4) Interactive web app using Gradio
+4) Interactive web app using StreamLit
 5) Model saved for reuse
+
+Run
+Streamlit run app.py
